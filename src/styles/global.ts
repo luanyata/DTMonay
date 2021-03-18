@@ -32,7 +32,7 @@ body {
 	-webkit-font-smoothing: antialiased
 }
 
-border-style, input, textarea,button{
+body, input, textarea,button{
 	font-family: "Poppins", sans-serif;
 	font-weight: 400;
 }
